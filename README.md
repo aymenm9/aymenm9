@@ -1,46 +1,57 @@
-<h1 align="center">Aymen Merad</h1>
-<p align="center"><b>Python backend dev · ex-designer · ex-teacher</b></p>
-<p align="center">Sétif, Algeria 🇩🇿</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=140&section=header&text=AYMEN%20MERAD&fontColor=ac0000&fontSize=48&fontAlign=50&fontAlignY=50" />
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aymen-merad"><img src="https://img.shields.io/badge/LinkedIn-ac0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/aymenm9/portfolio"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=AC0000&center=true&vCenter=true&width=600&lines=I+make+servers+behave.;I+used+to+design+logos+for+money.;I+used+to+teach+CS+to+people+who+didn%27t+ask.;Your+move.+1.+e4" />
 </p>
+
+```bash
+$ whoami
+aymen — backend dev, Sétif 🇩🇿
+
+$ cat history.log
+graphic designer (5★ on Fiverr)  →  CS teacher  →  backend dev @ Ayor.ai
+
+$ cat hobbies.txt
+chess ♟️   speedcubing 🧩   wrestling 🤼
+# yes, I will challenge you to something
+```
 
 ---
 
-## About
+### Things that exist because I got curious
 
-I build backends for a living at **Ayor.ai**. Before that I taught computer science, and before that I was a five-star graphic designer on Fiverr, so I care about how things look as much as how they run.
+| | |
+|---|---|
+| 🕌 **[Tajweed-AI](https://github.com/aymenm9/Tajweed-AI)** | Backend for a mobile app, built in a hackathon where sleep was optional |
+| 🌍 **[SDG-chat-bots](https://github.com/aymenm9/SDG-chat-bots)** | Gemini-powered bots for the UN's Sustainable Development Goals |
+| 🏆 **[univ_olympiad](https://github.com/aymenm9/univ_olympiad)** | A platform for university olympiads |
+| 🔌 **[ai-on-backend](https://github.com/aymenm9/ai-on-backend)** | Experiments in putting AI inside real backends |
+| 🎨 **[portfolio](https://github.com/aymenm9/portfolio)** | A site that doesn't look like every other AI-generated one |
 
-Outside the editor: chess ♟️, speedcubing 🧩, wrestling 🤼. Challenge me to a game of chess and see what happens.
+<details>
+<summary><b>Tools I reach for</b></summary>
+<br>
 
-## What I work with
+Python · Django · DRF · FastAPI · LangGraph · React · LaTeX (yes, for fun)
 
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ac0000)
-![Django](https://img.shields.io/badge/Django-0d0d0d?style=for-the-badge&logo=django&logoColor=ac0000)
-![DRF](https://img.shields.io/badge/DRF-0d0d0d?style=for-the-badge&logo=django&logoColor=ac0000)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=ac0000)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d0d0d?style=for-the-badge&logo=langchain&logoColor=ac0000)
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=ac0000)
-![LaTeX](https://img.shields.io/badge/LaTeX-0d0d0d?style=for-the-badge&logo=latex&logoColor=ac0000)
+</details>
 
-## Things I've built
+<details>
+<summary><b>What I'm up to lately</b></summary>
+<br>
 
-- 🕌 [**Tajweed-AI**](https://github.com/aymenm9/Tajweed-AI): backend for a mobile app, built at the Salam Hack hackathon
-- 🌍 [**SDG-chat-bots**](https://github.com/aymenm9/SDG-chat-bots): chatbots for the Sustainable Development Goals, powered by Gemini
-- 🏆 [**univ_olympiad**](https://github.com/aymenm9/univ_olympiad): university olympiad platform
-- 🔌 [**ai-on-backend**](https://github.com/aymenm9/ai-on-backend): wiring AI into backend services
-- 🎨 [**portfolio**](https://github.com/aymenm9/portfolio): my site, built in React
-- 🤝 Contributor at [Setif Developers Group](https://github.com/setif-developers-group)
+- Building a VS Code extension: select code, type an instruction, review the diff, accept
+- Writing a master's thesis on multi-agent systems
+- Taking on a few freelance backend gigs
 
-## Currently
+</details>
 
-- Building a VS Code extension for inline "select code → instruct → review diff → accept" edits
-- Finishing my master's thesis on multi-agent systems
-- Taking on select freelance backend work
+---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aymenm9&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ac0000&icon_color=ac0000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymenm9&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ac0000" />
+  <a href="https://linkedin.com/in/aymen-merad">LinkedIn</a> ·
+  <a href="https://github.com/aymenm9/portfolio">Portfolio</a> ·
+  <a href="https://github.com/setif-developers-group">Setif Developers Group</a>
 </p>
