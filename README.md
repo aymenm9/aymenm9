@@ -1,57 +1,82 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=140&section=header&text=AYMEN%20MERAD&fontColor=ac0000&fontSize=48&fontAlign=50&fontAlignY=50" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Aymen Merad. Backend developer, AI agents, Python. Sétif, Algeria." src="assets/header-light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=AC0000&center=true&vCenter=true&width=600&lines=I+make+servers+behave.;I+used+to+design+logos+for+money.;I+used+to+teach+CS+to+people+who+didn%27t+ask.;Your+move.+1.+e4" />
-</p>
-
-```bash
-$ whoami
-aymen — backend dev, Sétif 🇩🇿
-
-$ cat history.log
-graphic designer (5★ on Fiverr)  →  CS teacher  →  backend dev @ Ayor.ai
-
-$ cat hobbies.txt
-chess ♟️   speedcubing 🧩   wrestling 🤼
-# yes, I will challenge you to something
-```
+Graphic designer (5★ on Fiverr) → CS teacher → backend developer at **Ayor.ai**.
+I write the boring part of AI products: the API, the database, the guardrails, and the agent that has to do its job without making things up.
 
 ---
 
-### Things that exist because I got curious
+### Built recently
 
-| | |
-|---|---|
-| 🕌 **[Tajweed-AI](https://github.com/aymenm9/Tajweed-AI)** | Backend for a mobile app, built in a hackathon where sleep was optional |
-| 🌍 **[SDG-chat-bots](https://github.com/aymenm9/SDG-chat-bots)** | Gemini-powered bots for the UN's Sustainable Development Goals |
-| 🏆 **[univ_olympiad](https://github.com/aymenm9/univ_olympiad)** | A platform for university olympiads |
-| 🔌 **[ai-on-backend](https://github.com/aymenm9/ai-on-backend)** | Experiments in putting AI inside real backends |
-| 🎨 **[portfolio](https://github.com/aymenm9/portfolio)** | A site that doesn't look like every other AI-generated one |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>Tools I reach for</b></summary>
-<br>
+**[Ledgerwise AI SDR](https://github.com/aymenm9/Unscale)** · [live](https://ledgerwise-ai-sdr.vercel.app)<br>
+An AI sales rep: finds companies, researches them, writes the first email, answers replies, books calls. Every fact it states points to a stored quote. The hard rules (no prices, opt-out is forever, admits it's a bot) are checked by code first, LLM second. 181 tests. Hosting bill: $0.
 
-Python · Django · DRF · FastAPI · LangGraph · React · LaTeX (yes, for fun)
+<sub>FastAPI · LangGraph · Postgres · Next.js</sub>
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>What I'm up to lately</b></summary>
-<br>
+**[AI-On](https://github.com/aymenm9/ai-on-backend)**<br>
+A personal finance assistant run by a team of agents: onboarding, budgeting, forecasting, product advice. Send it a photo or a PDF of a receipt and the expense gets logged.
 
-- Building a VS Code extension: select code, type an instruction, review the diff, accept
-- Writing a master's thesis on multi-agent systems
-- Taking on a few freelance backend gigs
+<sub>Django REST · multi-agent · Gemini</sub>
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Mustad-il](https://github.com/aymenm9/Mustad-il)**<br>
+A search engine for the Quran and Hadith. TF-IDF gave shaky results on this text, BM25 didn't, so BM25 it is. Hand-written and library versions side by side; they rank almost the same.
+
+<sub>Python · FastAPI · BM25 · Gemini</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Tajweed-AI](https://github.com/aymenm9/Tajweed-AI)**<br>
+Backend for a Quran recitation app: AI lessons, quizzes, and recitation correction from audio. Built at Salam Hack, where sleep was optional.
+
+<sub>Django REST · Gemini · Docker</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>Also: a <a href="https://aymenm9.github.io/portfolio/">portfolio that is a tiny Linux desktop</a> (you navigate it with <code>cd</code> and <code>ls</code>) · <a href="https://github.com/aymenm9/SDG-chat-bots">Gemini bots for the UN SDGs</a> · <a href="https://github.com/aymenm9/MediQueue-AI">MediQueue-AI</a> · <a href="https://github.com/aymenm9/univ_olympiad">a university olympiad platform</a></sub>
+
+---
+
+### Right now
+
+- Building a VS Code extension: select code, type an instruction, review the diff, accept.
+- Writing a master's thesis on multi-agent systems.
+- Taking a few freelance backend gigs. If you have one, LinkedIn is below.
+
+### What I reach for
+
+**Backend** &nbsp; Python · Django · DRF · FastAPI · SQLAlchemy · Postgres · Docker<br>
+**AI** &nbsp; LangGraph · LangChain · Gemini · Groq · Pydantic for every LLM answer<br>
+**Front** &nbsp; React · Next.js · Svelte, when the backend needs a face<br>
+**For fun** &nbsp; LaTeX. Yes, for fun.
+
+### Off the keyboard
+
+Chess ♟️ · speedcubing 🧩 · wrestling 🤼. Yes, I will challenge you to something.
 
 ---
 
 <p align="center">
   <a href="https://linkedin.com/in/aymen-merad">LinkedIn</a> ·
-  <a href="https://github.com/aymenm9/portfolio">Portfolio</a> ·
+  <a href="https://aymenm9.github.io/portfolio/">Portfolio</a> ·
   <a href="https://github.com/setif-developers-group">Setif Developers Group</a>
+  <br><br>
+  <sub>The board up top is waiting. 1. e4, your move.</sub>
 </p>
